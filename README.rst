@@ -2,7 +2,7 @@
 django CMS Google Map
 =====================
 
-|pypi| |build| |coverage|
+|pypi| |build|
 
 **django CMS Google Map** is a set of plugins for `django CMS <http://django-cms.org>`_
 that allow you to implement `Google Map <https://developers.google.com/maps/>`_ into your website.
