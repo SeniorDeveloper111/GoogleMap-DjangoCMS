@@ -49,7 +49,6 @@ Installation
 
 For a manual install:
 
-* run ``pip install djangocms-googlemap``
 * add ``djangocms_googlemap`` to your ``INSTALLED_APPS``
 * run ``python manage.py migrate djangocms_googlemap``
 
